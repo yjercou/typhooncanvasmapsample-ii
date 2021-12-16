@@ -1,0 +1,27 @@
+{
+  "name": "typhooncanvasmapsample-ii-forked",
+  "description": null,
+  "version": "0.0.0",
+  "dependencies": {
+    "d3": "4.9.1",
+    "d3-geo": "1.6.4",
+    "d3-geo-graticule": "0.0.0",
+    "d3-interpolate": "1.1.5",
+    "d3-scale": "1.0.6",
+    "d3-selection": "1.1.0",
+    "d3-shape": "1.2.0",
+    "d3-transition": "1.1.0",
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "topojson-client": "3.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
